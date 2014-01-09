@@ -59,6 +59,6 @@ LOCAL_SHARED_LIBRARIES := \
 	liblog \
 	libexif
 
-include $(BUILD_SHARED_LIBRARY)
+#include $(BUILD_SHARED_LIBRARY)
 
 endif # JAVA_SUPPORT
